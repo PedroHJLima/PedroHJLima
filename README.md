@@ -2,9 +2,9 @@
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=PedroHJLima&show_icons=true&theme=highcontrast)
 
-##Sou um aluno de Análise e Desenvolvimento de Sistemas que está constantemente melhorando!
+## Sou um aluno de Análise e Desenvolvimento de Sistemas que está constantemente melhorando!
 
-##Tecnologias que eu uso no dia a dia:
+### Tecnologias que eu uso no dia a dia:
 
 <div styler="display:inline_block"><br/>
     <img align="center" alt="HTML" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
