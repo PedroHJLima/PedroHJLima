@@ -1,6 +1,6 @@
 ### Olá! Eu sou o Pedro Lima! 😄
 
-![GitHub Status](https://github-readme-stats.vercel.app/api?username=PedroHJLima&show_icons=true&theme=highcontrast)
+![GitHub Status](https://github-readme-stats.vercel.app/api?username=PedroHJLima&show_icons=true&theme=tokyonight)
 
 ## Sou um aluno de Análise e Desenvolvimento de Sistemas que está constantemente melhorando!
 
