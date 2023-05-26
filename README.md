@@ -1,4 +1,4 @@
-### Olá! Eu sou o Pedro Lima! 😄
+### Olá! Bem-vindo ao meu perfil 😄
 
 ![GitHub Status](https://github-readme-stats.vercel.app/api?username=PedroHJLima&show_icons=true&theme=tokyonight)
 
