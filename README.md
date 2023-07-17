@@ -1,7 +1,5 @@
 ### Olá! Bem-vindo ao meu perfil 😄
 
-<a href="https://github.com/PedroHJLima?tab=repositories">![GitHub Status](https://github-readme-stats.vercel.app/api?username=PedroHJLima&show_icons=true&theme=tokyonight)</a>
-
 ## Sou um aluno de Análise e Desenvolvimento de Sistemas que está constantemente melhorando!
 
 ### Tecnologias que eu uso no dia a dia:
